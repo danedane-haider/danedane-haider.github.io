@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danedane-haider.github.io/sitemap.xml
+Sitemap: https://danedane-haider/danedane-haider.github.io/al-folio/sitemap.xml
