@@ -1,1 +1,0 @@
-I am mathematician, musician, surf enthousiast, and curious person generally. Currently, I am doing my PhD at the Acoustics Research Institute in Vienna on the intersection of Frame Theory and Deep Learning. My main band project is GRUBER.
