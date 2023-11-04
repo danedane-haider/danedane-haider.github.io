@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in mathematics, working at the Acoustics Research Institute in Vienna. My research interests cover abstract frame theory, time-frequency analysis for audio signal processing, and deep learning. In my PhD project "Frame theory meets neural networks", I develop frame-theoretic approaches to study the invertibility and stability of neural networks and propose architecture designs and regularizers to guarantee stable invertibility.
+I am a PhD student in mathematics, working at the Acoustics Research Institute in Vienna. My research interests cover abstract frame theory, time-frequency analysis for audio signal processing, and deep learning.
+
+In my current project "Frame theory meets neural networks", I develop frame-theoretic approaches to study the invertibility and stability of neural networks and propose architecture designs and regularizers to guarantee stable invertibility.
 
 If you are interested in the topic, I will be happy if you drop me a line &#129305;
 
