@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href=mailto:daniel.haider@oeaw.ac.at>daniel.haider@oeaw.ac.at</a> </p>
+    
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,5 +23,5 @@ In my current project "Frame theory meets neural networks", I develop frame-theo
 
 If you are interested in the topic, I will be happy if you drop me a line &#129305;
 
-
+<p> <a href=mailto:daniel.haider@oeaw.ac.at>daniel.haider@oeaw.ac.at</a> </p>
 
