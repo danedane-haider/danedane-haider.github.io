@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:# >
-    #<p> <a href=mailto:daniel.haider@oeaw.ac.at>daniel.haider@oeaw.ac.at</a> </p>
+  more_info: >
+    <p> <a href=mailto:daniel.haider@oeaw.ac.at>daniel.haider@oeaw.ac.at</a> </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,8 +22,6 @@ I am a PhD student in mathematics, working at the Acoustics Research Institute i
 In my current project "Frame theory meets neural networks", I develop frame-theoretic approaches to study the invertibility and stability of neural networks and propose architecture designs and regularizers to guarantee stable invertibility.
 
 If you are interested in the topic, I will be happy if you drop me a line &#129305;
-
-<p> <a href=mailto:daniel.haider@oeaw.ac.at>daniel.haider@oeaw.ac.at</a> </p>
 
 
 
