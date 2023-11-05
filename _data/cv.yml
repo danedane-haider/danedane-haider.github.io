@@ -18,9 +18,9 @@
         - title: thesis
           contents:
             - Frame Theory meets Neural Networks.
-          - title: Supervisors
-            contents:
-              - Peter Balazs, Martin Ehler
+        - title: Supervisors
+          contents:
+            - Peter Balazs, Martin Ehler
     - title: MSc
       institution: Faculty of Mathematics, University of Vienna, Austria
       year: 2019
@@ -28,9 +28,9 @@
         - title: thesis
           contents:
             - Aspects of Time-Frequency Scattering and Towards Phase Scattering
-          - title: Supervisor
-            contents:
-              - Peter Balazs
+        - title: supervisor
+          contents:
+            - Peter Balazs
     - title: BSc
       institution: Faculty of Mathematics, University of Vienna, Austria
       year: 2016
@@ -38,53 +38,53 @@
 - title: positions
   type: time_table
   contents:
-    - title: PhD Student
+    - title: PhD student
       institution: Acoustics Research Institute
       year: 2020 - present
       description:
-        - title: PhD Project
+        - title: PhD project
           contents:
             - Frame-theoretic prespectives on the stability and invertibility of neural networks.
-    - title: Master Student
+    - title: Master student
       institution: Acoustics Research Institute
       year: 2018 - 2019
       description:
-        - title: Master Thesis
+        - title: Master thesis
           contents:
             - A novel scattering transform that is based on the phase of the STFT.
 
-- title: Experience
+- title: experience
   type: time_table
   contents:
-    - title: Research Stay
+    - title: research stay
       institution: Laboratory of Digital Sciences of Nantes, France
       year: 2023
       description:
         - Collaboration with Vincent Lostanlen on random FIR filterbanks and Multiresolution Neural Networks (MuReNN)
-    - title: Internship
+    - title: internship
       institution: Acoustics Research Institute
       year: 2017
       description:
-        - Theory and implementation of the Time-Frequency Jigsaw Puzzle Algorithm
+        - Theory and implementation of the Time-Frequency Jigsaw Puzzle algorithm
 
-- title: Grants
+- title: grants
   type: time_table
   contents:
-    - title: DOC Fellowship
+    - title: DOC fellowship
       institution: Austrian Academy of Sciences
       year: 2022
       description:
         - Frame Theory meets Neural Networks (PhD project)
 
-- title: Academic Interests
+- title: academic interests
   type: list
   contents:
-    - Time-frequency analysis for audio signal processing, filterbank theory
-    - Theory for deep learning audio applications
-    - Abstact finite frame theory
+    - time-frequency analysis for audio signal processing, filterbank theory
+    - theory for deep learning audio applications
+    - abstact finite frame theory
 
-- title: Other Interests
+- title: other interests
   type: list
   contents:
-    - <b>Arts:</b> Music (writing, performance and production)
-    - <b>Sports:</b> Water sports (surfing, kiting), rock climbing
+    - <b>arts:</b> music (writing, performance and production)
+    - <b>sports:</b> water sports (surfing, kiting), rock climbing
