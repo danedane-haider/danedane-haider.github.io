@@ -23,5 +23,5 @@ In my current project "Frame theory meets neural networks", I develop frame-theo
 
 If you are interested in the topic, I will be happy if you drop me a line &#129305;
 
-<p style="text-align: right;"> <a href="mailto:daniel.haider@oeaw.ac.at">daniel.haider@oeaw.ac.at    </a></p>
+<p> <a href="mailto:daniel.haider@oeaw.ac.at">daniel.haider@oeaw.ac.at </a> </p>
 
