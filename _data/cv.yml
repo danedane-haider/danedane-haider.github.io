@@ -3,12 +3,7 @@
   contents:
     - name: Full Name
       value: Daniel Haider
-    - name: Position
-      value: PhD student
-    - name: Affiliation
-      value: Acoustics Research Institute, Vienna, Austria
     - name: contact
-    # make a hyperref out of the email address
       value: <a href="mailto:daniel.haider@oeaw.ac.at"> daniel.haider@oeaw.ac.at </a>
     - name: Languages
       value: German, English, Portuguese
@@ -17,7 +12,7 @@
   type: time_table
   contents:
     - title: MSc
-      institution: Faculty of Mathematics, University of Vienna, Vienna, Austria
+      institution: Faculty of Mathematics, University of Vienna, Austria
       year: 2019
       description:
         - title: Specialization
@@ -27,14 +22,38 @@
           contents:
             - Aspects of Time-Frequency Scattering and Towards Phase Scattering
     - title: BSc
-      institution: Faculty of Mathematics, University of Vienna, Vienna, Austria
+      institution: Faculty of Mathematics, University of Vienna, Austria
       year: 2016
+
+- title: Positions
+  type: time_table
+  contents:
+    - title: PhD Student
+      institution: Acoustics Research Institute
+      year: 2020 - present
+      description:
+        - title: PhD Project
+          contents:
+            - Frame Theory meets Neural Networks. Frame-theoretic prespectives on the stability and invertibility of neural networks.
+        - title: Supervisors
+          contents:
+            - Peter Balazs, Martin Ehler
+    - title: Master Student
+      institution: Acoustics Research Institute
+      year: 2018 - 2019
+      description:
+        - title: Master Thesis
+          contents:
+            - Aspects of Time-Frequency Scattering and Towards Phase Scattering. A novel scattering transform that is based on the phase of the input signal on the time-freqeuncy plane.
+        - title: Supervisor
+          contents:
+            - Peter Balazs
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Stay
-      institution: Laboratory of Digital Sciences of Nantes, Nantes, France
+      institution: Laboratory of Digital Sciences of Nantes, France
       year: 2023
       description:
         - Collaboration with Vincent Lostanlen on random FIR filterbanks and Multiresolution Neural Networks (MuReNN)
@@ -51,7 +70,7 @@
       institution: Austrian Academy of Sciences
       year: 2022
       description:
-        - PhD Project. Frame-theoretic prespectives on the stability and invertibility of neural networks - 'Frame Theory meets Neural Networks'
+        - Frame Theory meets Neural Networks (PhD project)
 
 - title: Academic Interests
   type: list
