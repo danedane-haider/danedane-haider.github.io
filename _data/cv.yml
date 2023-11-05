@@ -6,7 +6,7 @@
     - name: contact
       value: <a href="mailto:daniel.haider@oeaw.ac.at"> daniel.haider@oeaw.ac.at </a>
     - name: languages
-      value: German, English, Portuguese
+      value: german, english, portuguese
 
 - title: education
   type: time_table
@@ -57,10 +57,15 @@
   type: time_table
   contents:
     - title: research stay
-      institution: Laboratory of Digital Sciences of Nantes, France
+      institution: Laboratory of Digital Sciences of Nantes
       year: 2023
       description:
-        - Collaboration with Vincent Lostanlen on random FIR filterbanks and Multiresolution Neural Networks (MuReNN)
+        - Collaboration with Vincent Lostanlen on random FIR filterbanks and multiresolution neural networks (MuReNN)
+    - title: student exchange
+      institution: Universidade de Coimbra
+      year: 2018
+      description:
+        - ERASMUS student exchange program
     - title: internship
       institution: Acoustics Research Institute
       year: 2017
@@ -74,7 +79,7 @@
       institution: Austrian Academy of Sciences
       year: 2022
       description:
-        - Frame Theory meets Neural Networks (PhD project)
+        - PhD project (A 26355) Frame Theory meets Neural Networks
 
 - title: academic interests
   type: list
