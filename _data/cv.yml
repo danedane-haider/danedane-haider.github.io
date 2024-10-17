@@ -57,6 +57,11 @@
   type: time_table
   contents:
     - title: research stay
+      institution: St. Louis University (SLU)
+      year: 2024
+      description:
+        - Collaboration with Daniel Freeman on the injectivity and stability of non-linear measurement operators in ML
+    - title: research stay
       institution: Laboratory of Digital Sciences of Nantes
       year: 2023
       description:
@@ -75,11 +80,16 @@
 - title: grants
   type: time_table
   contents:
-    - title: DOC fellowship
+    - title: DOC fellowship (A 26355)
       institution: Austrian Academy of Sciences
-      year: 2022
+      year: 2023
       description:
-        - PhD project (A 26355) Frame Theory meets Neural Networks
+        - PhD project - Frame Theory meets Neural Networks
+    - title: Marietta-Blau fellowship (MMC-2023-06983)
+      institution: OeAD
+      year: 2024
+      description:
+        - Funding for research visit at SLU - Non-linear frame theory in the context of ML
 
 - title: academic interests
   type: list
